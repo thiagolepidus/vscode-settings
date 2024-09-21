@@ -31,16 +31,16 @@
   "php-cs-fixer.lastDownload": 1726873448095,
   "phpSniffer.autoDetect": true,
   "phpSniffer.run": "onType",
-  "phpSniffer.executablesFolder": "${userHome}/.config/composer/vendor/bin",
+  "phpSniffer.executablesFolder": "",
   "phpSniffer.standard": "PSR12",
   "[php]": {
     "editor.defaultFormatter": "junstyle.php-cs-fixer",
     "editor.tabSize": 4,
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": true
   },
   "security.workspace.trust.untrustedFiles": "open",
   "window.menuBarVisibility": "compact",
   "window.titleBarStyle": "custom",
   "workbench.colorTheme": "Tokyo Night",
-  "workbench.iconTheme": "catppuccin-latte",
+  "workbench.iconTheme": "catppuccin-latte"
 }

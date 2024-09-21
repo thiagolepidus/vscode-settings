@@ -1,0 +1,8 @@
+catppuccin.catppuccin-vsc-icons
+dotjoshjohnson.xml
+enkia.tokyo-night
+junstyle.php-cs-fixer
+ms-vsliveshare.vsliveshare
+tal7aouy.icons
+wongjn.php-sniffer
+xdebug.php-debug
